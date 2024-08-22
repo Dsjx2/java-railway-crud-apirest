@@ -1,0 +1,1 @@
+select r.responsable, r.Apellido_Responsable
